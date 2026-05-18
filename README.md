@@ -1,6 +1,16 @@
 # 💫 About Me:
-### 👋 Hi there! I'm Hassan.<br><br>[cite_start]I am an AI Researcher and Engineer dedicated to building intelligent systems that make a tangible impact[cite: 4, 6]. [cite_start]Currently pursuing my PhD in ICT at Griffith University [cite: 9, 10][cite_start], my work bridges the gap between complex deep learning architectures and practical, domain-specific challenges[cite: 4].<br><br>#### 🧠 Domain Expertise<br>- [cite_start]🏥 **Medical Image Analysis:** Histopathology nuclei segmentation and clinical risk prediction[cite: 4, 25, 49].<br>- [cite_start]🛰️ **Remote Sensing:** Crop classification, deforestation analysis, and satellite imagery pipelines[cite: 16, 30, 31].<br>- [cite_start]🌾 **Precision Agriculture:** GAN-based super-resolution for plant disease detection and scale monitoring[cite: 35, 36].<br><br>[cite_start]📬 **Let's Connect!** I'm actively seeking roles as an **ML/CV/AI Engineer**. Feel free to explore my repositories or reach out via LinkedIn!
 
+### 👋 Hi there! I'm Hassan.
+
+[cite_start]I am an AI Researcher and Engineer dedicated to building intelligent systems that make a tangible impact[cite: 4, 6]. [cite_start]Currently pursuing my PhD in ICT at Griffith University [cite: 9, 10][cite_start], my work bridges the gap between complex deep learning architectures and practical, domain-specific challenges[cite: 4].
+
+### 🧠 Domain Expertise
+
+* [cite_start]**🏥 Medical Image Analysis:** Histopathology nuclei segmentation and clinical risk prediction[cite: 4, 25, 49].
+* [cite_start]**🛰️ Remote Sensing:** Crop classification, deforestation analysis, and satellite imagery pipelines[cite: 16, 30, 31].
+* [cite_start]**🌾 Precision Agriculture:** GAN-based super-resolution for plant disease detection and scale monitoring[cite: 35, 36].
+
+[cite_start]🚀 **Let's Connect!** I'm actively seeking roles as an **ML/CV/AI Engineer**[cite: 6]. Feel free to explore my repositories or reach out via LinkedIn!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhassanmaqsood/) 
