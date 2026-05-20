@@ -10,7 +10,6 @@ I am an AI Researcher and Engineer dedicated to building intelligent systems tha
 * **🛰️ Remote Sensing:** Crop classification, deforestation analysis, and satellite imagery pipelines.
 * **🌾 Precision Agriculture:** GAN-based super-resolution for plant disease detection and scale monitoring.
 
-🚀 **Let's Connect!** I'm actively seeking roles as an **ML/CV/AI Engineer**. Feel free to explore my repositories or reach out via LinkedIn!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhassanmaqsood/) 
 
