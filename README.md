@@ -34,8 +34,6 @@ Planned additions:
 - API-based inference
 - Further deployment and ML engineering improvements
 
-> Histology Explorer will be available publicly soon.
-
 ## 💻 Tech
 
 **Machine Learning**
