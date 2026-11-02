@@ -1,52 +1,20 @@
+```markdown
 # Hi, I'm Hassan 👋
 
-I'm a **Machine Learning Engineer and PhD researcher** at Griffith University, working at the intersection of **computer vision, medical image analysis, and applied AI**.
+I'm a **Machine Learning Engineer and PhD researcher** at Griffith University, working across **deep learning, computer vision, and applied machine learning**.
 
-My current work focuses on deep learning for histopathology, including **nuclei segmentation, vision foundation-model adaptation, and spatial gene-expression prediction from H&E images**.
+My work spans medical image analysis, remote sensing, and scientific imaging, with a focus on developing and evaluating deep learning models, adapting foundation models, and building reproducible machine learning workflows.
 
 Alongside research, I have more than **4 years of commercial software development experience**, building and shipping production applications at scale.
 
-## 🧠 Current Focus
+## 🧠 What I Work On
 
-- **Medical Image Analysis** — histopathology image analysis, nuclei segmentation, and spatial gene-expression prediction
-- **Deep Learning & Computer Vision** — foundation models, model adaptation, segmentation, and model generalisation
-- **Remote Sensing** — multispectral satellite imagery and machine-learning pipelines
-- **Precision Agriculture** — image analysis and GAN-based super-resolution for crop disease applications
-- **ML Engineering** — reproducible training and evaluation pipelines, experimentation, and production-oriented ML systems
-
-## 🔬 Featured Project
-
-### Histology Explorer
-
-An interactive histopathology application bringing together my work in medical image analysis and practical ML engineering.
-
-Currently includes:
-
-- Nuclei segmentation and classification
-- Interactive visualisation of histology predictions
-- Crop-based image exploration
-- Reproducible local and Docker-based deployment
-- CPU-compatible inference
-
-Planned additions:
-
-- Spatial gene-expression prediction from H&E images
-- API-based inference
-- Further deployment and ML engineering improvements
-
-## 💻 Tech
-
-**Machine Learning**
-
-`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV`
-
-**Scientific Computing**
-
-`Python` `NumPy` `Pandas` `SciPy`
-
-**Software Engineering**
-
-`Git` `Docker` `C#` `Unity`
+- **Applied Machine Learning** — model development, experimentation, evaluation, and generalisation across complex datasets
+- **Computer Vision** — image segmentation, foundation-model adaptation, representation learning, and image analysis
+- **Medical Image Analysis** — histopathology, nuclei segmentation, and spatial gene-expression prediction
+- **Remote Sensing & Scientific Imaging** — multispectral satellite imagery, agricultural imaging, and image-processing pipelines
+- **ML Engineering** — reproducible training and evaluation pipelines, Docker-based workflows, and production-oriented software development
+```
 
 ## 🌐 Connect
 
