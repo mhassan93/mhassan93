@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Hassan 👋
 
 I'm a **Machine Learning Engineer and PhD researcher** at Griffith University, working across **deep learning, computer vision, and applied machine learning**.
@@ -14,7 +13,20 @@ Alongside research, I have more than **4 years of commercial software developmen
 - **Medical Image Analysis** — histopathology, nuclei segmentation, and spatial gene-expression prediction
 - **Remote Sensing & Scientific Imaging** — multispectral satellite imagery, agricultural imaging, and image-processing pipelines
 - **ML Engineering** — reproducible training and evaluation pipelines, Docker-based workflows, and production-oriented software development
-```
+
+  ## 💻 Tech
+
+**Machine Learning**
+
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV`
+
+**Scientific Computing**
+
+`Python` `NumPy` `Pandas` `SciPy`
+
+**Software Engineering**
+
+`Git` `Docker` `C#` `Unity`
 
 ## 🌐 Connect
 
